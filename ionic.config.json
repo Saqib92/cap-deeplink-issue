@@ -1,0 +1,7 @@
+{
+  "name": "deplink-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
