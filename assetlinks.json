@@ -1,5 +1,5 @@
 [{
     "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" : { "namespace": "android_app", "package_name": "com.myweb.app",
+    "target" : { "namespace": "android_app", "package_name": "demo.shopmyl.ink",
                  "sha256_cert_fingerprints": ["CA:E0:95:9F:A3:D7:4C:0B:22:15:58:6C:00:DD:F3:61:E6:EF:70:7D:F4:1F:65:8F:D2:38:FB:7D:A7:F1:D6:91"] }
   }]
