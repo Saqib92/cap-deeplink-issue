@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.myweb.app',
+  appId: 'demo.shopmyl.ink',
   appName: 'deplink-issue',
   webDir: 'www',
   server: {
